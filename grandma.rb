@@ -18,5 +18,6 @@ def speak_to_grandma(greeting)
     return "HUH?! SPEAK UP, SONNY!"
   elsif greeting == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
+  elsif greeting == ""
   end
 end
