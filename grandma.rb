@@ -21,5 +21,6 @@ def speak_to_grandma(greeting)
   elsif greeting == "WHAT DID YOU EAT TODAY?"
     return "NO, NOT SINCE 1938!"
   elsif greeting == "WHAT?"
+    return "NO, NOT SINCE 1938!"
   end
 end
